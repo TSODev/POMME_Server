@@ -1,0 +1,26 @@
+{
+  "name": "sensors",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "event-stream": "^4.0.1",
+    "express": "~4.16.1",
+    "helmet": "^3.21.3",
+    "http-errors": "^1.6.3",
+    "jade": "~1.11.0",
+    "lodash": "^4.17.15",
+    "log4js": "^6.1.2",
+    "moment": "^2.24.0",
+    "morgan": "~1.9.1",
+    "node-redis-scan": "^1.1.1",
+    "raspi": "^6.0.1",
+    "raspi-serial": "^6.0.0",
+    "redis": "^3.0.2",
+    "socket.io": "^2.3.0"
+  }
+}
