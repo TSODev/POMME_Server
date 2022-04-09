@@ -14,7 +14,7 @@
     "http-errors": "^1.6.3",
     "lodash": "^4.17.15",
     "log4js": "^6.1.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "morgan": "~1.9.1",
     "node-redis-scan": "^1.1.1",
     "raspi": "^6.0.1",
